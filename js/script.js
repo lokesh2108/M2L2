@@ -16,7 +16,7 @@ function addEmp() {
     console.log("ID:", id);
     console.log("Name:", name);
     console.log("Extension:", extension);
-    console.log("Email:", email);
-    console.log("Department:", department);
+    console.log("Email", email);
+    console.log("Department", department);
     window.document.getElementById("empForm").reset();
 }
